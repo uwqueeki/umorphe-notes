@@ -2,7 +2,7 @@
   
 # uMorphe notes
 
-## [Telegram](https://t.me/cuttenai) | [Changelogs](https://github.com/uwqueeki/umorphe-notes/tree/main/change)
+## [Telegram](https://t.me/cuttenai) | [Changelogs](https://github.com/uwqueeki/umorphe-notes/commits/main/)
 
 ## **Work in progress**
 
